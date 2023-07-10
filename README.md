@@ -15,7 +15,7 @@ Website pemutar musik online inspired by Spotify.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Control the layout, styling, and formatting of web pages.
 
 Find Me On :
-| Plugin | Link |
+| Social Media | Link |
 | ------ | ------ |
 | LinkedIn | https://www.linkedin.com/in/rizqwijaya
 | TikTok | https://www.tiktok.com/@rizqwijaya
