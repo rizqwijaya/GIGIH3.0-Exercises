@@ -1,5 +1,5 @@
 # Module 1.3
-## Website Spotify v1.1
+## Spotify v1.1
 Website pemutar musik online inspired by Spotify.
 
 ## Features
